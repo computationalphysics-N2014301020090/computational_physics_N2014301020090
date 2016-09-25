@@ -8,8 +8,8 @@
  : Completed
  > - [x] The Second Homework
  : [Completed](https://github.com/computationalphysics-N2014301020090/computational_physics_N2014301020090/blob/master/%E8%83%A1%E8%83%9C%E5%8B%87.py)
- > - [ ] The Third Homework
-：[Exercise_03:All levels]()
+ > - [x] The Third Homework
+：[Exercise_03:All levels](https://www.zybuluo.com/mdeditor#513029)
 > - [ ] The Forth Homework
 ：[Exercise_04:Chapter 1 problem 1.5:The decay of two kind of particles]()
 > - [ ] The Fifth Homework
