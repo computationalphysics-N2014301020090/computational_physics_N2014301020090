@@ -11,7 +11,7 @@
  > - [x] The Third Homework
 ：[Exercise_03:All levels](https://www.zybuluo.com/computationalphysics-2014301020090/note/513029)
 > - [x] The Forth Homework
-：[Exercise_04:Chapter 1 problem 1.5:The decay of two kind of particles]()
+：[Exercise_04:Chapter 1 problem 1.5:The decay of two kind of particles](https://www.zybuluo.com/computationalphysics-2014301020090/note/522471)
 > - [ ] The Fifth Homework
 ：[Exercise_05:Chapter 1 problem 1.6:Population growth]()
 > - [ ] The Sixth Homework
