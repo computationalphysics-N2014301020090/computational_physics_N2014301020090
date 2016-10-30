@@ -16,8 +16,8 @@
 ：[Exercise_05:Chapter 2.2 problem 2.9:The trajectory of a cannon shell](https://www.zybuluo.com/computationalphysics-2014301020090/note/533813)
 > - [x] The Sixth Homework
 ：[Exercise_06:Chapter 2 problem 2.9&2.10：The cannon shell](https://www.zybuluo.com/computationalphysics-2014301020090/note/542106)
-> - [ ] The Seventh Homework
-：[Exercise_07:Chapter 2 problem 2.19The spin of baseball and Visual motion of baseball]()
+> - [x] The Seventh Homework
+：[Exercise_07:Chapter 3 Problem3.12 The chaos of pendulum](https://www.zybuluo.com/computationalphysics-2014301020090/note/550346)
 > - [ ] The Eighth Homework
 ：[Exercise_08:Chapter 3 problem 3.4:Non-linrar oscillator]()
 > - [ ] The Ninth Homework
