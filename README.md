@@ -20,8 +20,8 @@
 ：[Exercise_07:Chapter 3 Problem3.12 The chaos of pendulum](https://www.zybuluo.com/computationalphysics-2014301020090/note/550346)
 > - [x] The Eighth Homework
 ：[Exercise_08:Chapter 3 problem 3.18:Routes to Chaos](https://www.zybuluo.com/computationalphysics-2014301020090/note/565569)
-> - [ ] The Ninth Homework
-：[Exercise_09:Chapter 3 problem 3.31:Billiard ball on diverse table]()
+> - [x] The Ninth Homework
+：[Exercise_09:Chapter 3 problem 3.31 Billiard ball on diverse table](https://www.zybuluo.com/computationalphysics-2014301020090/note/573382)
 > - [ ] The Tenth Homework
 ：[Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]()
 > - [ ] The Eleventh Homework
