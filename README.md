@@ -19,9 +19,9 @@
 > - [x] The Seventh Homework
 ：[Exercise_07:Chapter 3 Problem3.12 The chaos of pendulum](https://www.zybuluo.com/computationalphysics-2014301020090/note/550346)
 > - [x] The Eighth Homework
-：[Exercise_08:Chapter 3 problem 3.4:Non-linrar oscillator](https://www.zybuluo.com/computationalphysics-2014301020090/note/565569)
+：[Exercise_08:Chapter 3 problem 3.18:Routes to Chaos](https://www.zybuluo.com/computationalphysics-2014301020090/note/565569)
 > - [ ] The Ninth Homework
-：[Exercise_09:Chapter 3 problem 3.16:strange attractor]()
+：[Exercise_09:Chapter 3 problem 3.31:Billiard ball on diverse table]()
 > - [ ] The Tenth Homework
 ：[Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]()
 > - [ ] The Eleventh Homework
