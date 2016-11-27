@@ -22,8 +22,8 @@
 ：[Exercise_08:Chapter 3 problem 3.18:Routes to Chaos](https://www.zybuluo.com/computationalphysics-2014301020090/note/565569)
 > - [x] The Ninth Homework
 ：[Exercise_09:Chapter 3 problem 3.31 Billiard ball on diverse table](https://www.zybuluo.com/computationalphysics-2014301020090/note/573382)
-> - [ ] The Tenth Homework
-：[Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]()
+> - [x] The Tenth Homework
+：[Exercise_10:Problem 4.11Problem 4.11 Precession versus Eccentricity](https://www.zybuluo.com/computationalphysics-2014301020090/note/581777)
 > - [ ] The Eleventh Homework
 ：[Exercise_11:Chapter 4 problem 4.11:The percession of Mercury]()
 > - [ ] The Twelfth Homework
