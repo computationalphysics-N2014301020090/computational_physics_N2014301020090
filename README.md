@@ -26,7 +26,7 @@
 ：[Exercise_10:Problem 4.11 Precession versus Eccentricity](https://www.zybuluo.com/computationalphysics-2014301020090/note/581777)
 > - [x] The Eleventh Homework
 ：[Exercise_11:Chapter 4 Problen 4.19:Hyperion](https://www.zybuluo.com/computationalphysics-2014301020090/note/589868)
-> - [ ] The Twelfth Homework
+> - [x] The Twelfth Homework
 ：[Exercise_12:Chapter 5 problem 5.7:The jacobi method v.s. The SOR algorithm](https://www.zybuluo.com/computationalphysics-2014301020090/note/597663)
 > - [ ] The Thirteenth Homework
 ：[Exercise_13:Chapter 5 problem 5.7:The jacobi method v.s. The SOR algorithm]()
