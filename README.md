@@ -27,7 +27,7 @@
 > - [x] The Eleventh Homework
 ：[Exercise_11:Chapter 4 Problen 4.19:Hyperion](https://www.zybuluo.com/computationalphysics-2014301020090/note/589868)
 > - [ ] The Twelfth Homework
-：[Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap]()
+：[Exercise_12:Chapter 5 problem 5.7:The jacobi method v.s. The SOR algorithm]()
 > - [ ] The Thirteenth Homework
 ：[Exercise_13:Chapter 5 problem 5.7:The jacobi method v.s. The SOR algorithm]()
 > - [ ] The Forteenth Homework
