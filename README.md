@@ -28,8 +28,8 @@
 ：[Exercise_11:Chapter 4 Problen 4.19:Hyperion](https://www.zybuluo.com/computationalphysics-2014301020090/note/589868)
 > - [x] The Twelfth Homework
 ：[Exercise_12:Chapter 5 problem 5.7:The jacobi method v.s. The SOR algorithm](https://www.zybuluo.com/computationalphysics-2014301020090/note/597663)
-> - [ ] The Thirteenth Homework
-：[Exercise_13:Chapter 5 problem 5.7:The jacobi method v.s. The SOR algorithm]()
+> - [x] The Thirteenth Homework
+：[Exercise_13:Chapter 6 problem 6.16:Waves](https://www.zybuluo.com/computationalphysics-2014301020090/note/604875)
 > - [ ] The Forteenth Homework
 ：[Exercise_14:Chapter 6 problem 6.15:The realistic string problem]()
 > - [ ] The Final Project
