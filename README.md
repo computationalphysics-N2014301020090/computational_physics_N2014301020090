@@ -30,7 +30,5 @@
 ：[Exercise_12:Chapter 5 problem 5.7:The jacobi method v.s. The SOR algorithm](https://www.zybuluo.com/computationalphysics-2014301020090/note/597663)
 > - [x] The Thirteenth Homework
 ：[Exercise_13:Chapter 6 problem 6.16:Waves](https://www.zybuluo.com/computationalphysics-2014301020090/note/604875)
-> - [ ] The Forteenth Homework
-：[Exercise_14:Chapter 6 problem 6.15:The realistic string problem]()
-> - [ ] The Final Project
-：[Final Project:用轨道能量分析Kirkwood Gap的缝宽]()
+> - [x] The Final Project
+：[Final Project:用轨道能量分析Kirkwood Gap的缝宽](https://www.zybuluo.com/computationalphysics-2014301020090/note/623864)
